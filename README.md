@@ -22,6 +22,7 @@
 
 <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me : I  am  a Full  Stack  Developer
 
 <img src="https://media.giphy.com/media/dAXabwi32tKkJxblBG/giphy.gif" width="30"> from Denver.
@@ -34,6 +35,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MeganJo01554061)
 
 ---
+
 ### Languages and Tools :
 
 </div>
